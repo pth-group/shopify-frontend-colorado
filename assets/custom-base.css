@@ -29,3 +29,6 @@
         max-width: calc(14.28% - var(--grid-desktop-horizontal-spacing) * 6 / 7);
     }
 }
+.header__icons {
+    display: none;
+}
