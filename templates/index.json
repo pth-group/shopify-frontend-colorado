@@ -110,10 +110,54 @@
         "columns_desktop": 3,
         "columns_mobile": "2"
       }
+    },
+    "12f2c499-371e-4265-a74b-7523f11115ef": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20355137995039__12f2c499-371e-4265-a74b-7523f11115ef-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Folge uns jetzt auf Instagram:",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--20355137995039__12f2c499-371e-4265-a74b-7523f11115ef-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
+    "169148464724516d30": {
+      "type": "apps",
+      "blocks": {
+        "1b216390-d87b-4985-96fe-d98caaf5009b": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "1b216390-d87b-4985-96fe-d98caaf5009b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "11b4c6e9-1d74-485f-af15-ceee2455dc9c",
-    "4b990a7d-2c5d-440e-b503-b891e0af66c1"
+    "4b990a7d-2c5d-440e-b503-b891e0af66c1",
+    "12f2c499-371e-4265-a74b-7523f11115ef",
+    "169148464724516d30"
   ]
 }
