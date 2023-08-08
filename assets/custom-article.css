@@ -1,0 +1,42 @@
+.custom-article {
+    padding-bottom: 4rem;
+}
+
+.custom-article .card:not(.ratio) {
+    flex-direction: row;
+    align-items: center;
+    gap: 8rem;
+}
+
+.custom-article .card__content {
+    position: relative;
+    padding-left: 4rem;
+    height: 100%;
+}
+
+.custom-article .card__information {
+    align-self: center;
+    text-align: left;
+}
+
+.custom-article .card__information:before {
+    height: 100%;
+    position: absolute;
+    width: 4px;
+    left: 0;
+    content: "";
+    top: 0;
+    background-color: rgb(var(--color-foreground));
+    flex-basis: 60%;
+}
+
+.custom-article .card__inner {
+    flex-basis: 40%;
+}
+
+@media screen and (min-width: 990px) {
+    .blog-articles--collage>*:nth-child(3n + 1) .custom-article .article-card__image--medium .ratio::before {
+        padding-bottom: var(--ratio-percent);
+    }
+
+}

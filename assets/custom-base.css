@@ -1,0 +1,31 @@
+@media screen and (min-width: 990px) {
+    .grid--12-col-desktop .grid__item {
+        width: calc(8.33% - var(--grid-desktop-horizontal-spacing) * 11 / 12);
+        max-width: calc(8.33% - var(--grid-desktop-horizontal-spacing) * 11 / 12);
+    }
+
+    .grid--11-col-desktop .grid__item {
+        width: calc(9.09% - var(--grid-desktop-horizontal-spacing) * 10 / 11);
+        max-width: calc(9.09% - var(--grid-desktop-horizontal-spacing) * 10 / 11);
+    }
+
+    .grid--10-col-desktop .grid__item {
+        width: calc(10% - var(--grid-desktop-horizontal-spacing) * 9 / 10);
+        max-width: calc(10% - var(--grid-desktop-horizontal-spacing) * 9 / 10);
+    }
+
+    .grid--9-col-desktop .grid__item {
+        width: calc(11.11% - var(--grid-desktop-horizontal-spacing) * 8 / 9);
+        max-width: calc(11.11% - var(--grid-desktop-horizontal-spacing) * 8 / 9);
+    }
+
+    .grid--8-col-desktop .grid__item {
+        width: calc(12.5% - var(--grid-desktop-horizontal-spacing) * 7 / 8);
+        max-width: calc(12.5% - var(--grid-desktop-horizontal-spacing) * 7 / 8);
+    }
+
+    .grid--7-col-desktop .grid__item {
+        width: calc(14.28% - var(--grid-desktop-horizontal-spacing) * 6 / 7);
+        max-width: calc(14.28% - var(--grid-desktop-horizontal-spacing) * 6 / 7);
+    }
+}
