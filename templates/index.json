@@ -252,7 +252,7 @@
         "1b216390-d87b-4985-96fe-d98caaf5009b"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     }
   },
