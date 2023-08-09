@@ -248,6 +248,11 @@
             "html_area": ""
           }
         },
+        "5b89283e-16d7-4f4f-b004-5122374da1e9": {
+          "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-block-story\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+          "settings": {
+          }
+        },
         "f5b3ba98-077a-4f27-8c32-1ac5cd42204f": {
           "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-block-feeds\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
           "settings": {
@@ -256,6 +261,7 @@
       },
       "block_order": [
         "1b216390-d87b-4985-96fe-d98caaf5009b",
+        "5b89283e-16d7-4f4f-b004-5122374da1e9",
         "f5b3ba98-077a-4f27-8c32-1ac5cd42204f"
       ],
       "settings": {
