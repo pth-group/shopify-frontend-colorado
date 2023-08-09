@@ -265,7 +265,7 @@
         "f5b3ba98-077a-4f27-8c32-1ac5cd42204f"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     }
   },
