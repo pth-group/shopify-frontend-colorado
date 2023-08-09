@@ -219,7 +219,7 @@
         "template--20355137995039__12f2c499-371e-4265-a74b-7523f11115ef-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Folge uns jetzt auf Instagram:",
+            "heading": "Folge uns jetzt auf Instagram: <a href=\"https:\/\/www.instagram.com\/colorado.biw\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/colorado.biw\/\">@colorado.biw<\/a>",
             "heading_size": "h2"
           }
         }
