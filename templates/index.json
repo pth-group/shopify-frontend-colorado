@@ -6,7 +6,7 @@
         "template--20355137995039__11b4c6e9-1d74-485f-af15-ceee2455dc9c-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/15203CA3-BAAC-4E54-BA13-AB6D874E7902_1_201_a.heic",
+            "image": "shopify:\/\/shop_images\/3.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -24,7 +24,7 @@
         "template--20355137995039__11b4c6e9-1d74-485f-af15-ceee2455dc9c-slide-2": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2A0768AE-75DB-4912-BDED-6BB5D1A6E0F3_1_201_a.heic",
+            "image": "shopify:\/\/shop_images\/1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -42,7 +42,7 @@
         "bee6490d-8fa6-4dbe-ac6e-ea7c17c95cd8": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/119EA62C-EC24-4FBC-8257-3E12F677E8A9_1_201_a.heic",
+            "image": "shopify:\/\/shop_images\/4.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -71,7 +71,7 @@
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "Slideshow aus Ansichten des Colorado Stores in Bischofswerda"
       }
     },
     "4b990a7d-2c5d-440e-b503-b891e0af66c1": {
