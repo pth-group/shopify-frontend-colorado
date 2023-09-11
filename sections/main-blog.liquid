@@ -17,11 +17,11 @@
 {%- endstyle -%}
 
   <div class="main-blog page-width section-{{ section.id }}-padding">
-    <h1 class="title--primary">
+    <h1 class="title--primary center">
       {{ blog.title | escape }}
     </h1>
 
-    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %} grid grid--1-col-desktop">
+    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %} grid grid--1-col-desktop grid--1-col">
       {%- for article in blog.articles -%}
         <div
           class="blog-articles__article article grid__item"

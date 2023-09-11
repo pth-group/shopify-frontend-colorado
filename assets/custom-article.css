@@ -8,6 +8,12 @@
     gap: 8rem;
 }
 
+@media screen and (max-width: 750px) {
+    .custom-article .card:not(.ratio) {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
 .custom-article .card__content {
     position: relative;
     padding-left: 4rem;
@@ -15,10 +21,14 @@
 }
 
 .custom-article .card__information {
-    align-self: center;
     text-align: left;
 }
 
+.custom-article .article-card__footer .button {
+    text-decoration: underline;
+    padding-left: 0;
+    justify-content: left;
+}
 .custom-article .card__information:before {
     height: 100%;
     position: absolute;
