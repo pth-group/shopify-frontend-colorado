@@ -56,12 +56,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "adba7111-c223-4e0e-aaf9-95736395f9e6": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--20355137995039__11b4c6e9-1d74-485f-af15-ceee2455dc9c-slide-1",
         "template--20355137995039__11b4c6e9-1d74-485f-af15-ceee2455dc9c-slide-2",
-        "bee6490d-8fa6-4dbe-ac6e-ea7c17c95cd8"
+        "bee6490d-8fa6-4dbe-ac6e-ea7c17c95cd8",
+        "adba7111-c223-4e0e-aaf9-95736395f9e6"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -240,7 +258,7 @@
       "type": "apps",
       "blocks": {
         "1b216390-d87b-4985-96fe-d98caaf5009b": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "disabled": true,
           "settings": {
             "heading_size": 20,
