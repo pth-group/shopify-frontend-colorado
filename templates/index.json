@@ -85,14 +85,6 @@
             "brand_url": ""
           }
         },
-        "template--20355137995039__4b990a7d-2c5d-440e-b503-b891e0af66c1-brand-2": {
-          "type": "brand",
-          "settings": {
-            "brand_image": "shopify:\/\/shop_images\/heartkiss.png",
-            "brand_name": "",
-            "brand_url": ""
-          }
-        },
         "template--20355137995039__4b990a7d-2c5d-440e-b503-b891e0af66c1-brand-3": {
           "type": "brand",
           "settings": {
@@ -125,30 +117,6 @@
             "brand_url": ""
           }
         },
-        "25561a22-5770-4fb0-b385-126ccadfebcc": {
-          "type": "brand",
-          "settings": {
-            "brand_image": "shopify:\/\/shop_images\/TT-Denim_logo.png",
-            "brand_name": "",
-            "brand_url": ""
-          }
-        },
-        "f20dcfb2-8a23-4143-9bbc-b96446d1cd4e": {
-          "type": "brand",
-          "settings": {
-            "brand_image": "shopify:\/\/shop_images\/ragwear_logo.png",
-            "brand_name": "",
-            "brand_url": ""
-          }
-        },
-        "bc29eb33-f73a-4b12-982a-c18bc2179257": {
-          "type": "brand",
-          "settings": {
-            "brand_image": "shopify:\/\/shop_images\/rino-pelle_logo.png",
-            "brand_name": "",
-            "brand_url": ""
-          }
-        },
         "4179ad0a-d7f6-45fe-8214-c49238588afc": {
           "type": "brand",
           "settings": {
@@ -165,14 +133,6 @@
             "brand_url": ""
           }
         },
-        "92109d6d-2e18-4ede-9d9f-bca2c967e321": {
-          "type": "brand",
-          "settings": {
-            "brand_image": "shopify:\/\/shop_images\/logo-vanzetti.png",
-            "brand_name": "",
-            "brand_url": ""
-          }
-        },
         "5c712118-99a2-4194-a935-0dd82fc8c128": {
           "type": "brand",
           "settings": {
@@ -181,10 +141,34 @@
             "brand_url": ""
           }
         },
-        "e2a661b3-cea3-46e9-b383-6558ec5791c7": {
+        "25561a22-5770-4fb0-b385-126ccadfebcc": {
           "type": "brand",
           "settings": {
-            "brand_image": "shopify:\/\/shop_images\/1200px-G-Star_Raw_Denim_Logo_svg.png",
+            "brand_image": "shopify:\/\/shop_images\/TT-Denim_logo.png",
+            "brand_name": "",
+            "brand_url": ""
+          }
+        },
+        "f20dcfb2-8a23-4143-9bbc-b96446d1cd4e": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/ragwear_logo.png",
+            "brand_name": "",
+            "brand_url": ""
+          }
+        },
+        "92109d6d-2e18-4ede-9d9f-bca2c967e321": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/logo-vanzetti.png",
+            "brand_name": "",
+            "brand_url": ""
+          }
+        },
+        "bc29eb33-f73a-4b12-982a-c18bc2179257": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/rino-pelle_logo.png",
             "brand_name": "",
             "brand_url": ""
           }
@@ -192,19 +176,17 @@
       },
       "block_order": [
         "template--20355137995039__4b990a7d-2c5d-440e-b503-b891e0af66c1-brand-1",
-        "template--20355137995039__4b990a7d-2c5d-440e-b503-b891e0af66c1-brand-2",
         "template--20355137995039__4b990a7d-2c5d-440e-b503-b891e0af66c1-brand-3",
         "7717c675-05fb-4c89-8d0a-4c9c02a26ae5",
         "95bbd4e0-201f-45e2-9e75-e7cc3db42997",
         "920e2b83-5143-477f-9b0f-35f058566ddc",
-        "25561a22-5770-4fb0-b385-126ccadfebcc",
-        "f20dcfb2-8a23-4143-9bbc-b96446d1cd4e",
-        "bc29eb33-f73a-4b12-982a-c18bc2179257",
         "4179ad0a-d7f6-45fe-8214-c49238588afc",
         "f9c34f22-0e04-4871-90b4-e71a1084e4ba",
-        "92109d6d-2e18-4ede-9d9f-bca2c967e321",
         "5c712118-99a2-4194-a935-0dd82fc8c128",
-        "e2a661b3-cea3-46e9-b383-6558ec5791c7"
+        "25561a22-5770-4fb0-b385-126ccadfebcc",
+        "f20dcfb2-8a23-4143-9bbc-b96446d1cd4e",
+        "92109d6d-2e18-4ede-9d9f-bca2c967e321",
+        "bc29eb33-f73a-4b12-982a-c18bc2179257"
       ],
       "settings": {
         "padding_top": 20,
@@ -219,7 +201,7 @@
         "template--20355137995039__12f2c499-371e-4265-a74b-7523f11115ef-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Folge uns jetzt auf Instagram: <a href=\"https:\/\/www.instagram.com\/colorado.biw\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/colorado.biw\/\">@colorado.biw<\/a>",
+            "heading": "Folge uns jetzt auf Instagram und Facebook: <a href=\"https:\/\/www.instagram.com\/colorado.biw\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/colorado.biw\/\">@colorado.biw<\/a>",
             "heading_size": "h2"
           }
         }
